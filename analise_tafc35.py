@@ -6,7 +6,7 @@ import numpy as np
 
 ## ------ CLASSE JOGADOR ------ ##
 
-# Essa classe contem os seguintes objetos:
+# Essa classe contem os seguintes métodos:
   
   # Objeto:         retorna um dicionario, contendo nome, recepcao, levantamento e ataques (os values das ultimas tres keys sao obejetos tipo list.)
   # Ataques:        retorna uma lista com todos os tipos de ataques realizados.
